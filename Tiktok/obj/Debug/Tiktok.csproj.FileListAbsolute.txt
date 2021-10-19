@@ -1,0 +1,15 @@
+E:\Tool\Tiktok\Tiktok\bin\Debug\Tiktok.exe.config
+E:\Tool\Tiktok\Tiktok\bin\Debug\Tiktok.exe
+E:\Tool\Tiktok\Tiktok\bin\Debug\Tiktok.pdb
+E:\Tool\Tiktok\Tiktok\bin\Debug\WebDriver.dll
+E:\Tool\Tiktok\Tiktok\bin\Debug\WebDriver.xml
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.csproj.AssemblyReference.cache
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.Properties.Resources.resources
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.csproj.GenerateResource.cache
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.csproj.CoreCompileInputs.cache
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.csproj.CopyComplete
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.exe
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.pdb
+E:\Tool\Tiktok\Tiktok\bin\Debug\chromedriver.exe
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.Form2.resources
+E:\Tool\Tiktok\Tiktok\obj\Debug\Tiktok.Form1.resources
